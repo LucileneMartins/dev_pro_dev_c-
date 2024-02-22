@@ -6,20 +6,19 @@ Tools and Libs:
 
 - C#
 - NUnit
+- Microsoft.NET.Test.Sdk
+- Nuget
 
 
 ## 🎯 Prerequisites
 
-<b>Install   </b></br> 
+<b>Install using Nuget  </b></br> 
  </br>
 
-<b>Install  </b></br>
- </br>
+
 
 <b>Clone project </b></br>
 
-<b>Install dependencies  </b> </br>
- $ npm install</br>
  
  Done ✔️
 
@@ -27,7 +26,8 @@ Tools and Libs:
 ## 💡 Use
 
 <b>Run tests </b></br>
-$ npm test </br>
+$ dotnet build </br>
+$ dotnet test </br>
 
 
 
